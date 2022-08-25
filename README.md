@@ -1,6 +1,7 @@
 # Sorting Visualizer 
 
-Vusualize Bubble Sort, Selection Sort, Merge Sort and Quick Sort.
+Visualise Bubble Sort, Selection Sort, Merge Sort and Quick Sort.
+
 ## Available Scripts
 
 In the project directory, you can run:

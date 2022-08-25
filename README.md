@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Sorting Visualizer 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Vusualize Bubble Sort, Selection Sort, Merge Sort and Quick Sort.
 ## Available Scripts
 
 In the project directory, you can run:

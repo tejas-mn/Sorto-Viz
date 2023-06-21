@@ -103,10 +103,10 @@ export default function SortingViz() {
                     setTimeout(()=>{
                         document.getElementsByClassName('array-bar')[l].style.backgroundColor = '#00de8d';
                         document.getElementsByClassName('array-bar')[l].style.borderRight = '10px solid #00ffff';
-                    } , l*20); //to get slow delay like animation in colouring the sorted bars
+                    } , l*20); //to get slow delay like animation in colouring the sorted bars after waiting from outer setTimeout
                 }
 
-        } , swapArr.length *(1010- speed)); //to wait till the whole arary gets coloured
+        } , swapArr.length *(1010- speed)); //to wait till the whole arary gets sorted
     }
  
     function changeSize(e){

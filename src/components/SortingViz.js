@@ -98,15 +98,15 @@ export default function SortingViz() {
                 setLeft(-2);
                 setRight(-2);
                 setMode(-1);
-                enableButtons();
+                enableButtons(); //enable buttons once sorting is done
                 for(let l=0;l<array.length;l++){
                     setTimeout(()=>{
                         document.getElementsByClassName('array-bar')[l].style.backgroundColor = '#00de8d';
                         document.getElementsByClassName('array-bar')[l].style.borderRight = '10px solid #00ffff';
-                    } , l*20);
+                    } , l*20); //to get slow delay like animation in colouring the sorted bars
                 }
 
-        } , swapArr.length *(1010- speed));
+        } , swapArr.length *(1010- speed)); //to wait till the whole arary gets coloured
     }
  
     function changeSize(e){

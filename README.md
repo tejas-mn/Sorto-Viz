@@ -1,6 +1,5 @@
 # Sorting Visualizer 
-![image](https://github.com/tejas-mn/Sorto-Viz/assets/68629215/a2e4980f-f704-4a40-9d43-ef3d8786836b)
-
+![2024-02-18 18-05-10](https://github.com/tejas-mn/Sorto-Viz/assets/68629215/4c511869-ff49-4de6-bc1a-d751ddf814ff)
 
 Visualise Bubble Sort, Selection Sort, Merge Sort and Quick Sort.
 
